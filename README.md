@@ -24,7 +24,7 @@ I'm Mike
 
 ##### Food Waste & Global Climate Change (UN Certified)
 ##### working on development methodologies and SDLC
-##### learning calculus for engineers, modern history of my motherland, sustainability, accounting
+##### learning SQL (& reporting basics) calculus for engineers, modern history of my motherland, sustainability, accounting
 ##### java, C, python
 ##### russian (native), english (C1), uzbek (intermediate), german (C1)
 ##### looking for help/collaborate on SDLC topic
