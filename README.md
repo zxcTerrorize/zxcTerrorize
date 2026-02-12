@@ -19,14 +19,14 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⠛⠀⠀⠀⠀⠀⣸⠿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</p>
 
 I'm Mike 
-## DS Student | College Basketball Team Cap | Development Methodologies Enthusiast 
+## DS Student | Development Methodologies Enthusiast 
 ### *[sdvg.dev](sdvg.dev)*
 
 ##### Food Waste & Global Climate Change (UN Certified)
 ##### working on development methodologies and SDLC
 ##### learning SQL (& reporting basics) calculus for engineers, modern history of my motherland, sustainability, accounting
 ##### java, C, python
-##### russian (native), english (C1), uzbek (intermediate), german (C1)
+##### russian (native), english (C1), uzbek (intermediate), german (B1)
 ##### looking for help/collaborate on SDLC topic
 ##### [my music](https://band.link/sdvgm) 
 
